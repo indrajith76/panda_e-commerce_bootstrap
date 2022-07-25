@@ -1,7 +1,8 @@
+/* navber style */
 .navbar {
     background: #eca9be;
 }
-
+/* slider style */
 .carousel-item {
     background: #fceae8;
 }
@@ -15,11 +16,15 @@
     padding: 9px 25px;
 }
 
+.categories img {
+    width: 100px;
+}
+
 .card-body .btn, form .btn {
     color: #FFFFFF;
     background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
-
+/* subscribe style */
 .subscribe {
     background: #fceae8;
     height: 300px;
