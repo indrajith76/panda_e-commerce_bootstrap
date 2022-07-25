@@ -1,0 +1,12 @@
+.carousel-item {
+    background: #fceae8;
+}
+
+.carousel-item .row h1 {
+    color: #FF136F;
+}
+
+.carousel-btn {
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+}
