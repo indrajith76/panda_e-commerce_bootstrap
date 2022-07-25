@@ -1,3 +1,7 @@
+.navbar {
+    background: #eca9be;
+}
+
 .carousel-item {
     background: #fceae8;
 }
@@ -11,7 +15,12 @@
     padding: 9px 25px;
 }
 
-.card-body .btn {
+.card-body .btn, form .btn {
     color: #FFFFFF;
     background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+.subscribe {
+    background: #fceae8;
+    height: 300px;
 }
