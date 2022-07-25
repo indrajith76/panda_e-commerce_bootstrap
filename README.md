@@ -1,3 +1,3 @@
 # panda_e-commerce_bootstrap
 
-> Live website Link - https://indrajith76.github.io/panda_e-commerce_bootstrap/
+> Live website Link - https://panda-ecommerce-bootstrap-e81f63.netlify.app/
